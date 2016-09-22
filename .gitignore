@@ -1,0 +1,11 @@
+# IntelliJ project files
+*.iml
+.idea
+
+# Pub generated "packages" directories and files
+.packages
+packages
+pubspec.lock
+
+# Local pub storage
+.pub
