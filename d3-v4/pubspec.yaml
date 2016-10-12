@@ -1,0 +1,12 @@
+name: d3
+version: 4.0.0
+description: >
+  Dart facades for d3 v4.
+
+environment:
+  sdk: '>=1.17.0 <2.0.0'
+
+dependencies:
+  func: ^0.1.0
+  js: ^0.6.1
+  browser: any
